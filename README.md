@@ -1,6 +1,6 @@
 # Europe-Regional-Datathon 2020
 
-Our teams's submission to the Citadel Datathon held by Correlation One, October 25 2020.
+Our teams's submission to the Citadel Datathon held by Correlation One, 19 - 25 October 2020.
 
 This one week Datathon was about "Gentrification in NYC 2009-2018". 
 
